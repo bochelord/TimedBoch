@@ -1,13 +1,13 @@
 {
 	"timeline":
     {
-        "headline":"José Gómez de Lara",
+        "headline":"<span class='c1'>José Gómez de Lara</span>",
         "type":"default",
 		"text":"<i><span class='c1'>Software Engineer</span> - <span class='c2'>UX Designer</span></i><br><i><span class='c2'>Game Developer</span> - <span class='c1'>Producer</span></i>",
 		"asset":
         {
             "media":"assets/img/shots/josegomezdelara_big.jpg",
-            "credit":"<a href='http://www.radicalgraphics.com/cv' target='_new'>Jose Gomez de Lara - Curriculum Vitae / Resumeé</a>",
+            "credit":"<a href='http://www.radicalgraphics.com/cv/JMGomezdeLara-EN-CV13.pdf'>Curriculum Vitae / Resumeé - PDF format</a>",
             "caption":""
         },
         "date": [
