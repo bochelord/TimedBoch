@@ -187,6 +187,18 @@
                     "credit":"<a href='http://www.subatomic.nl/' target='_new'>www.subatomic.nl",
                     "caption":"<br><h4>technologies:</h4><p>HTML5, CSS, REST API, PHP</p>"
                 }
+            },
+            {
+                "startDate":"2013,10",
+                
+                "headline":"CTO",
+                "text":"<img src='assets/img/shots/Red3-text.png' style='height: 250px; width:200px;'><h4>Radical Graphics v.o.f. - Amsterdam, The Netherlands</h4><p><p>Game Development</p><p>Gamification Development</p>Apps Design<br><br><br><a href='http://www.radicalgraphics.com/' target='_new'>www.radicalgraphics.com",
+                "asset":
+                {
+                    "media":"assets/img/shots/rg_horizontal_logo.jpg",
+                    "credit":"<a href='http://www.radicalgraphics.com/' target='_new'>www.radicalgraphics.com",
+                    "caption":"<br><h4>technologies:</h4><p>C#, Python, HTML5, JavaScript</p>"
+                }
             }
 
         ]
